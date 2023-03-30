@@ -1,1 +1,12 @@
 .pyc
+
+rh850_test/*
+!rh850_test/*.c
+!rh850_test/*.h
+!rh850_test/*.asm
+DefaultBuild/*
+!DefaultBuild/*.mot
+
+BYDdata/datas/*
+!BYDdata/datas/*.mot
+!BYDdata/datas/*.idb
