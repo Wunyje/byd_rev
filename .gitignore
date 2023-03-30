@@ -1,12 +1,16 @@
-.pyc
+*/__pycache__
 
-rh850_test/*
+rh850_test/*.*
 !rh850_test/*.c
 !rh850_test/*.h
 !rh850_test/*.asm
-DefaultBuild/*
-!DefaultBuild/*.mot
+
+rh850_test/DefaultBuild/*
+!rh850_test/DefaultBuild/*.mot
+!rh850_test/DefaultBuild/*.idb
 
 BYDdata/datas/*
 !BYDdata/datas/*.mot
 !BYDdata/datas/*.idb
+
+RH850_F1L_Tutorial_Basic_Operation/

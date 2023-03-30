@@ -31,5 +31,7 @@ void main(void);
 
 void main(void)
 {
+	int *val_a_for_test;
+	scanf("%d", val_a_for_test);
 	printf("Hello, RH850.");
 }
