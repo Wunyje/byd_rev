@@ -5,9 +5,8 @@ rh850_test/*.*
 !rh850_test/*.h
 !rh850_test/*.asm
 
-rh850_test/DefaultBuild/*
-!rh850_test/DefaultBuild/*.mot
-!rh850_test/DefaultBuild/*.idb
+rh850_rev_demo
+
 
 BYDdata/datas/*
 !BYDdata/datas/*.mot
