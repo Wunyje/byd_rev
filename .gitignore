@@ -1,4 +1,6 @@
 */__pycache__
+.vs
+.vscode
 
 rh850_test/*.*
 !rh850_test/*.c
