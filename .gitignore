@@ -2,7 +2,7 @@
 .vs
 .vscode
 
-rh850_rev_demo/
+rh850_rev_demo/*
 !rh850_rev_demo/*.idb
 !rh850_rev_demo/rev_temp
 
