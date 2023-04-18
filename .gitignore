@@ -2,16 +2,8 @@
 .vs
 .vscode
 
-rh850_test/*.*
-!rh850_test/*.c
-!rh850_test/*.h
-!rh850_test/*.asm
+rh850_rev_demo/
+!rh850_rev_demo/*.idb
+!rh850_rev_demo/rev_temp
 
-rh850_rev_demo
-
-
-BYDdata/datas/*
-!BYDdata/datas/*.mot
-!BYDdata/datas/*.idb
-
-RH850_F1L_Tutorial_Basic_Operation/
+BYDdata/
