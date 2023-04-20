@@ -4,6 +4,7 @@
 
 rh850_rev_demo/*
 !rh850_rev_demo/*.idb
+!rh850_rev_demo/*.i64
 !rh850_rev_demo/rev_temp
 
 BYDdata/
