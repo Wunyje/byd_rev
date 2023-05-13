@@ -8,3 +8,4 @@ rh850_rev_demo/*
 !rh850_rev_demo/rev_temp
 
 BYDdata/
+*.csv
